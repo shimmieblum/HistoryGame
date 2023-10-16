@@ -550,7 +550,7 @@ obj/
 # Generated files
 .idea/**/contentModel.xml
 
-.DS-STORE
+.DS_STORE
 
 # Sensitive or high-churn files
 .idea/**/dataSources/
